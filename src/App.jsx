@@ -7,7 +7,7 @@ import FlightDetails from "./components/FlightDetails"
 import Accommodation from "./components/Accommodation"
 import Activities from "./components/Activities"
 import BottomNavigation from "./components/BottomNavigation"
-import Sidebar from "./components/Sidebar"
+import Sidebar from "./components/SideBar"
 import TravelPlannerCard from "./components/TravelPlanner"
 import { useMobile } from "../hooks/UseMobile"
 
