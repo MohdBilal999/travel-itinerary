@@ -28,8 +28,8 @@ A responsive travel itinerary web app that displays scheduled activities and tim
    cd <your-project-folder>
 
 2. **Install dependencies**
-
-npm install
+    ```bash
+    npm install
 
 3. **Start the development server**
 npm run dev
