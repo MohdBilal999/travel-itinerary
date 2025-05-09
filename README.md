@@ -1,12 +1,51 @@
-# React + Vite
+# 🧳 Travel Activities Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive travel itinerary web app that displays scheduled activities and timelines for each day of a trip. The app is optimized for both mobile and desktop, using modular React components and clean UI/UX design principles.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Features
 
-## Expanding the ESLint configuration
+- 📆 Interactive day tabs for easy navigation  
+- 📋 Activity cards with title, timing, duration, and pickup info  
+- 🌙 Dark mode friendly UI  
+- 💡 Clean and modular React code structure  
+- 📱 Fully responsive layout (mobile + desktop)  
+- 🎨 Styled using Tailwind CSS and component-based architecture  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+---
+
+## 🔧 Installation & Setup
+
+> 📝 All project files and installation resources are included in the linked repository (see below).
+
+1. **Clone the repository**
+   ```bash
+   git clone <your-project-link>
+   cd <your-project-folder>
+
+2. **Install dependencies**
+
+npm install
+
+3. **Start the development server**
+npm run dev
+
+4. **Open your browser at http://localhost:5173 (or as prompted in your terminal).**
+
+## 👨‍💻 Tech Stack
+React
+
+Tailwind CSS
+
+Vite (build tool)
+
+Modular Component Architecture
+
+
+
+
+
